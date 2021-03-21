@@ -4,3 +4,4 @@
 2. [jdk,jvm,jre](https://howtodoinjava.com/java/basics/jdk-jre-jvm/)
 3. [gets,puts in C](https://beginnersbook.com/2014/01/c-strings-string-functions/)
 4. [time and work](https://www.javatpoint.com/aptitude/time-and-work)
+5. [Arrays.copyOfRange() in Java](https://www.geeksforgeeks.org/java-util-arrays-copyofrange-java/)
