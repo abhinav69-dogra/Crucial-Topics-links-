@@ -7,3 +7,4 @@
 5. [Arrays.copyOfRange() in Java](https://www.geeksforgeeks.org/java-util-arrays-copyofrange-java/)
 6. [fastreader java](https://medium.com/@priyanshichaki1/fast-i-o-for-cp-in-java-tle-solved-dd0c26066807)
 7. [java split strings (//s)](https://alvinalexander.com/java/edu/pj/pj010006/#:~:text=To%20split%20a%20string%20in,method%20of%20the%20String%20class.&text=The%20string%20%5Cs%20is%20a,as%20a%20string%20in%20Java.)
+8. [arrayCopy in java](https://www.geeksforgeeks.org/system-arraycopy-in-java/)
