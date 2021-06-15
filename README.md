@@ -10,3 +10,4 @@
 8. [arrayCopy in java](https://www.geeksforgeeks.org/system-arraycopy-in-java/)
 9. [Time complexities](https://www.bigocheatsheet.com/)
 10. [reactJS imp](https://www.interviewbit.com/react-interview-questions/#react-advantage)
+11. [How is a java program executed?](https://www.quora.com/How-is-a-java-program-executed)
