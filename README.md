@@ -14,3 +14,4 @@
 12. [diff bw 2d multidimensional array in cpp and java](https://www.geeksforgeeks.org/difference-between-multidimensional-array-in-cpp-and-java/?ref=rp)
 13. [jagged arrays](https://www.geeksforgeeks.org/jagged-array-in-java/)
 14. [Object[]array](https://stackoverflow.com/questions/32915711/what-can-an-object-array-hold)
+15. [Left in sql](https://www.w3schools.com/sql/func_sqlserver_left.asp)
