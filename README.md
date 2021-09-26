@@ -17,3 +17,4 @@
 15. [Left in sql](https://www.w3schools.com/sql/func_sqlserver_left.asp)
 16. [destructor java](https://www.edureka.co/blog/destructor-in-java/)
 17. [prefix sum trick, const time range add operation](https://www.geeksforgeeks.org/constant-time-range-add-operation-array/)
+18. [ER to relational model](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
