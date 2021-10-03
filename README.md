@@ -18,3 +18,4 @@
 16. [destructor java](https://www.edureka.co/blog/destructor-in-java/)
 17. [prefix sum trick, const time range add operation](https://www.geeksforgeeks.org/constant-time-range-add-operation-array/)
 18. [ER to relational model](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
+19. [Sliding Window template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template!)
