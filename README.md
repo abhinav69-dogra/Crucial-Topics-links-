@@ -20,3 +20,4 @@
 18. [ER to relational model](https://www.geeksforgeeks.org/mapping-from-er-model-to-relational-model/)
 19. [Sliding Window template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template!)
 20. [java mostly used methods](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)
+21. [static](https://www.javatpoint.com/static-keyword-in-java)
