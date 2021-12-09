@@ -22,3 +22,4 @@
 20. [java mostly used methods](https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax)
 21. [static](https://www.javatpoint.com/static-keyword-in-java)
 22. [Remove in arraylist by value](https://www.geeksforgeeks.org/remove-element-arraylist-java/)
+23. [Abstraction-implementation hiding](https://www.youtube.com/watch?v=iSP60D5UZ8U)
