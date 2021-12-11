@@ -23,3 +23,4 @@
 21. [static](https://www.javatpoint.com/static-keyword-in-java)
 22. [Remove in arraylist by value](https://www.geeksforgeeks.org/remove-element-arraylist-java/)
 23. [Abstraction-implementation hiding](https://www.youtube.com/watch?v=iSP60D5UZ8U)
+24. [Hahsmap merge](https://www.geeksforgeeks.org/hashmap-mergekey-value-bifunction-method-in-java-with-examples/)
